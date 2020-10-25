@@ -16,18 +16,17 @@ Thank you for using Mooziker! We're happy you're here. Please read this Terms of
 | [B. Account Terms](#b-account-terms) | These are the basic requirements of having an Account on Mooziker.  |
 | [C. Acceptable Use](#c-acceptable-use)| These are the basic rules you must follow when using your Mooziker Account. |
 | [D. User-Generated Content](#d-user-generated-content) | You own the content you post on Mooziker. However, you have some responsibilities regarding it, and we ask you to grant us some rights so we can provide services to you. |
-| [E. Private Repositories](#e-private-repositories) | This section talks about how Mooziker will treat content you post in private repositories. |
-| [F. Copyright & DMCA Policy](#f-copyright-infringement-and-dmca-policy) | This section talks about how Mooziker will respond if you believe someone is infringing your copyrights on Mooziker. |
-| [G. Intellectual Property Notice](#g-intellectual-property-notice) | This describes Mooziker's rights in the website and service. |
-| [J. Beta Previews](#j-beta-previews) | These are some of the additional terms that apply to Mooziker's features that are still in development. |
-| [K. Payment](#k-payment) | You are responsible for payment. We are responsible for billing you accurately. |
-| [L. Cancellation and Termination](#l-cancellation-and-termination) | You may cancel this agreement and close your Account at any time. |
-| [M. Communications with Mooziker](#m-communications-with-mooziker) | We only use email and other electronic means to stay in touch with our users. We do not provide phone support. |
-| [N. Disclaimer of Warranties](#n-disclaimer-of-warranties) | We provide our service as is, and we make no promises or guarantees about this service. **Please read this section carefully; you should understand what to expect.** |
-| [O. Limitation of Liability](#o-limitation-of-liability) | We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. **Please read this section carefully; it limits our obligations to you.** |
-| [P. Release and Indemnification](#p-release-and-indemnification) | You are fully responsible for your use of the service. |
-| [Q. Changes to these Terms of Service](#q-changes-to-these-terms) | We may modify this agreement, but we will give you 30 days' notice of changes that affect your rights. |
-| [R. Miscellaneous](#r-miscellaneous) | Please see this section for legal details including our choice of law. |
+| [E. Copyright Infringement](#e-copyright-infringement) | This section talks about how Mooziker will respond if you believe someone is infringing your copyrights on Mooziker. |
+| [F. Intellectual Property Notice](#f-intellectual-property-notice) | This describes Mooziker's rights in the website and service. |
+| [G. Beta Previews](#g-beta-previews) | These are some of the additional terms that apply to Mooziker's features that are still in development. |
+| [H. Payment](#h-payment) | You are responsible for payment. We are responsible for billing you accurately. |
+| [I. Cancellation and Termination](#i-cancellation-and-termination) | You may cancel this agreement and close your Account at any time. |
+| [J. Communications with Mooziker](#j-communications-with-mooziker) | We only use email and other electronic means to stay in touch with our users. We do not provide phone support. |
+| [K. Disclaimer of Warranties](#k-disclaimer-of-warranties) | We provide our service as is, and we make no promises or guarantees about this service. **Please read this section carefully; you should understand what to expect.** |
+| [L. Limitation of Liability](#l-limitation-of-liability) | We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. **Please read this section carefully; it limits our obligations to you.** |
+| [M. Release and Indemnification](#m-release-and-indemnification) | You are fully responsible for your use of the service. |
+| [N. Changes to these Terms of Service](#n-changes-to-these-terms) | We may modify this agreement, but we will give you 30 days' notice of changes that affect your rights. |
+| [O. Miscellaneous](#o-miscellaneous) | Please see this section for legal details including our choice of law. |
 
 ### The Mooziker Terms of Service
 Effective date: October 25, 2020
@@ -120,15 +119,6 @@ You retain all moral rights to Your Content that you upload, publish, or submit 
 
 To the extent this agreement is not enforceable by applicable law, you grant Mooziker the rights we need to use Your Content without attribution and to make reasonable adaptations of Your Content as necessary to render the Website and provide the Service.
 
-### E. Private Repositories
-**Short version:** *You may have access to private repositories. We treat the content of private repositories as confidential, and we only access it for support reasons, with your consent, or if required to for security reasons.*
-
-#### 1. Control of Private Repositories
-Some Accounts may have private repositories, which allow the User to control access to Content.
-
-#### 2. Confidentiality of Private Repositories
-Mooziker considers the contents of private repositories to be confidential to you. Mooziker will protect the contents of private repositories from unauthorized use, access, or disclosure in the same manner that we would use to protect our own confidential information of a similar nature and in no event with less than a reasonable degree of care.
-
 #### 3. Access
 Mooziker personnel may only access the content of your private repositories in the following situations:
 - With your consent and knowledge, for support reasons. If Mooziker accesses a private repository for support reasons, we will only do so with the owner’s consent and knowledge.
@@ -140,10 +130,10 @@ You may choose to enable additional access to your private repositories. For exa
 #### 4. Exclusions
 If we have reason to believe the contents of a private repository are in violation of the law or of these Terms, we have the right to access, review, and remove them. Additionally, we may be [compelled by law](/benwigley/mooziker-site-policy/mooziker-privacy-statement#for-legal-disclosure) to disclose the contents of your private repositories.
 
-### F. Copyright Infringement
+### E. Copyright Infringement
 If you believe that content on our website violates your copyright, please contact us. If you are a copyright owner and you believe that content on Mooziker violates your rights, please contact by emailing copyright@mooziker.com. There may be legal consequences for sending a false or frivolous takedown notice. Before sending a takedown request, you must consider legal uses such as fair use and licensed uses.
 
-### G. Intellectual Property Notice
+### F. Intellectual Property Notice
 **Short version:** *We own the service and all of our content. In order for you to use our content, we give you certain rights to it, but you may only use our content in the way we have allowed.*
 
 #### 1. Mooziker's Rights to Content
@@ -152,7 +142,7 @@ Mooziker and our licensors, vendors, agents, and/or our content providers retain
 #### 2. Mooziker Trademarks and Logos
 If you’d like to use Mooziker’s trademarks, you must follow all of our trademark guidelines, including those on our logos page: https://mooziker.com/logos.
 
-### J. Beta Previews
+### G. Beta Previews
 **Short version:** *Beta Previews may not be supported or may change at any time, you may receive confidential information through those programs that must remain confidential while the program is private, and we'd love your feedback to make our Beta Previews better.*
 
 #### 1. Subject to Change
@@ -171,7 +161,7 @@ As a user of Beta Previews, you may get access to special information that isn�
 
 We’re always trying to improve of products and services, and your feedback as a Beta Preview user will help us do that. If you choose to give us any ideas, know-how, algorithms, code contributions, suggestions, enhancement requests, recommendations or any other feedback for our products or services (collectively, “Feedback”), you acknowledge and agree that Mooziker will have a royalty-free, fully paid-up, worldwide, transferable, sub-licensable, irrevocable and perpetual license to implement, use, modify, commercially exploit and/or incorporate the Feedback into our products, services, and documentation.
 
-### K. Payment
+### H. Payment
 **Short version:** *You are responsible for any fees associated with your use of Mooziker. We are responsible for communicating those fees to you clearly and accurately, and letting you know well in advance if those prices change.*
 
 #### 1. Pricing
@@ -196,7 +186,7 @@ By agreeing to these Terms, you are giving us permission to charge your on-file 
 #### 5. Responsibility for Payment
 You are responsible for all fees, including taxes, associated with your use of the Service. By using the Service, you agree to pay Mooziker any charge incurred in connection with your use of the Service.  If you dispute the matter, contact [Mooziker Support](https://mooziker.com/contact). You are responsible for providing us with a valid means of payment for paid Accounts. Free Accounts are not required to provide payment information.
 
-### L. Cancellation and Termination
+### I. Cancellation and Termination
 **Short version:** *You may close your Account at any time. If you do, we'll treat your information responsibly.*
 
 #### 1. Account Cancellation
@@ -215,7 +205,7 @@ Mooziker has the right to suspend or terminate your access to all or any part of
 #### 4. Survival
 All provisions of this Agreement which, by their nature, should survive termination *will* survive termination — including, without limitation: ownership provisions, warranty disclaimers, indemnity, and limitations of liability.
 
-### M. Communications with Mooziker
+### J. Communications with Mooziker
 **Short version:** *We use email and other electronic means to stay in touch with our users.*
 
 #### 1. Electronic Communication Required
@@ -227,14 +217,14 @@ Communications made through email or Mooziker Support's messaging system will no
 #### 3. No Phone Support
 Mooziker only offers support via email, in-Service communications, and electronic messages. We do not offer telephone support.
 
-### N. Disclaimer of Warranties
+### K. Disclaimer of Warranties
 **Short version:** *We provide our service as is, and we make no promises or guarantees about this service. Please read this section carefully; you should understand what to expect.*
 
 Mooziker provides the Website and the Service “as is” and “as available,” without warranty of any kind. Without limiting this, we expressly disclaim all warranties, whether express, implied or statutory, regarding the Website and the Service including without limitation any warranty of merchantability, fitness for a particular purpose, title, security, accuracy and non-infringement.
 
 Mooziker does not warrant that the Service will meet your requirements; that the Service will be uninterrupted, timely, secure, or error-free; that the information provided through the Service is accurate, reliable or correct; that any defects or errors will be corrected; that the Service will be available at any particular time or location; or that the Service is free of viruses or other harmful components. You assume full responsibility and risk of loss resulting from your downloading and/or use of files, information, content or other material obtained from the Service.
 
-### O. Limitation of Liability
+### L. Limitation of Liability
 **Short version:** *We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. Please read this section carefully; it limits our obligations to you.*
 
 You understand and agree that we will not be liable to you or any third party for any loss of profits, use, goodwill, or data, or for any incidental, indirect, special, consequential or exemplary damages, however arising, that result from
@@ -250,21 +240,21 @@ You understand and agree that we will not be liable to you or any third party fo
 
 Our liability is limited whether or not we have been informed of the possibility of such damages, and even if a remedy set forth in this Agreement is found to have failed of its essential purpose. We will have no liability for any failure or delay due to matters beyond our reasonable control.
 
-### P. Release and Indemnification
+### M. Release and Indemnification
 **Short version:** *You are responsible for your use of the service. If you harm someone else or get into a dispute with someone else, we will not be involved.*
 
 If you have a dispute with one or more Users, you agree to release Mooziker from any and all claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes.
 
 You agree to indemnify us, defend us, and hold us harmless from and against any and all claims, liabilities, and expenses, including attorneys’ fees, arising out of your use of the Website and the Service, including but not limited to your violation of this Agreement, provided that Mooziker (1) promptly gives you written notice of the claim, demand, suit or proceeding; (2) gives you sole control of the defense and settlement of the claim, demand, suit or proceeding (provided that you may not settle any claim, demand, suit or proceeding unless the settlement unconditionally releases Mooziker of all liability); and (3) provides to you all reasonable assistance, at your expense.
 
-### Q. Changes to These Terms
+### N. Changes to These Terms
 **Short version:** *We want our users to be informed of important changes to our terms, but some changes aren't that important — we don't want to bother you every time we fix a typo. So while we may modify this agreement at any time, we will notify users of any changes that affect your rights and give you time to adjust to them.*
 
 We reserve the right, at our sole discretion, to amend these Terms of Service at any time and will update these Terms of Service in the event of any such amendments. We will notify our Users of material changes to this Agreement, such as price changes, at least 30 days prior to the change taking effect by posting a notice on our Website. For non-material modifications, your continued use of the Website constitutes agreement to our revisions of these Terms of Service. You can view all changes to these Terms in our [Mooziker Site Policy](https://github.com/benwigley/mooziker-site-policy) repository.
 
 We reserve the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Website (or any part of it) with or without notice.
 
-### R. Miscellaneous
+### O. Miscellaneous
 
 #### 1. Governing Law
 Except to the extent applicable law provides otherwise, this Agreement between you and Mooziker and any access to or use of the Website or the Service are governed by the laws of New Zealand, without regard to conflict of law provisions. You and Mooziker agree to submit to the exclusive jurisdiction and venue of the courts located in New Zealand.
