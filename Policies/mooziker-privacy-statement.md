@@ -10,7 +10,7 @@ Effective date: October 25, 2020
 
 Thanks for entrusting Mooziker Inc. (“Mooziker”, “we”) with your source code, your projects, and your personal information. Holding on to your private information is a serious responsibility, and we want you to know how we're handling it.
 
-All capitalized terms have their definition in [Mooziker’s Terms of Service](/benwigley/mooziker-site-policy/mooziker-terms-of-service), unless otherwise noted here.
+All capitalized terms have their definition in [Mooziker’s Terms of Service](/Policies/mooziker-terms-of-service), unless otherwise noted here.
 
 
 ### The short version
@@ -79,7 +79,7 @@ Mooziker may collect User Personal Information from third parties. For example, 
 
 We do not intentionally collect “**[Sensitive Personal Information](https://gdpr-info.eu/art-9-gdpr/)**”, such as personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person’s sex life or sexual orientation. If you choose to store any Sensitive Personal Information on our servers, you are responsible for complying with any regulatory controls regarding that data.
 
-If you are a child under the age of 13, you may not have an Account on Mooziker. Mooziker does not knowingly collect information from or direct any of our content specifically to children under 13. If we learn or have reason to suspect that you are a User who is under the age of 13, we will have to close your Account. We don't want to discourage you from learning to code, but those are the rules. Please see our [Terms of Service](/benwigley/mooziker-site-policy/mooziker-terms-of-service) for information about Account termination. Different countries may have different minimum age limits, and if you are below the minimum age for providing consent for data collection in your country, you may not have an Account on Mooziker.
+If you are a child under the age of 13, you may not have an Account on Mooziker. Mooziker does not knowingly collect information from or direct any of our content specifically to children under 13. If we learn or have reason to suspect that you are a User who is under the age of 13, we will have to close your Account. We don't want to discourage you from learning to code, but those are the rules. Please see our [Terms of Service](/Policies/mooziker-terms-of-service) for information about Account termination. Different countries may have different minimum age limits, and if you are below the minimum age for providing consent for data collection in your country, you may not have an Account on Mooziker.
 
 We do not intentionally collect User Personal Information that is **stored in your repositories** or other free-form content inputs. Any personal information within a user's repository is the responsibility of the repository owner.
 
@@ -96,7 +96,7 @@ We do not intentionally collect User Personal Information that is **stored in yo
 - We may use User Personal Information to invite you to take part in surveys, beta programs, or other research projects, subject, where necessary, to your consent .
 - We use [Usage Information](#usage-information) and [Device Information](#device-information) to better understand how our Users use Mooziker and to improve our Website and Service.
 - We may use your User Personal Information if it is necessary for security purposes or to investigate possible fraud or attempts to harm Mooziker or our Users.
-- We may use your User Personal Information to comply with our legal obligations, protect our intellectual property, and enforce our [Terms of Service](/benwigley/mooziker-site-policy/mooziker-terms-of-service).
+- We may use your User Personal Information to comply with our legal obligations, protect our intellectual property, and enforce our [Terms of Service](/Policies/mooziker-terms-of-service).
 - We limit our use of your User Personal Information to the purposes listed in this Privacy Statement. If we need to use your User Personal Information for other purposes, we will ask your permission first.
 
 #### Our legal bases for processing information
@@ -121,7 +121,7 @@ We may share your User Personal Information with third parties under one of the 
 We share your User Personal Information, if you consent, after letting you know what information will be shared, with whom, and why. For example, if you purchase an application listed on our Marketplace, we share your username to allow the application Developer to provide you with services. Additionally, you may direct us through your actions on Mooziker to share your User Personal Information. For example, if you join an Organization, you indicate your willingness to provide the owner of the Organization with the ability to view your activity in the Organization’s access log.
 
 #### With service providers
-We share User Personal Information with a limited number of service providers who process it on our behalf to provide or improve our Service, and who have agreed to privacy restrictions similar to the ones in our Privacy Statement by signing data protection agreements or making similar commitments. Our service providers perform payment processing, customer support ticketing, network data transmission, security, and other similar services. Our service providers may process data outside of New Zealand, the United States, or the European Union. If you would like to know who our service providers are, please see our page on [Subprocessors](/benwigley/mooziker-site-policy/mooziker-subprocessors-and-cookies).
+We share User Personal Information with a limited number of service providers who process it on our behalf to provide or improve our Service, and who have agreed to privacy restrictions similar to the ones in our Privacy Statement by signing data protection agreements or making similar commitments. Our service providers perform payment processing, customer support ticketing, network data transmission, security, and other similar services. Our service providers may process data outside of New Zealand, the United States, or the European Union. If you would like to know who our service providers are, please see our page on [Subprocessors](/Policies/mooziker-subprocessors-and-cookies).
 
 #### For security purposes
 If you are a member of an Organization, Mooziker may share your username, [Usage Information](#usage-information), and [Device Information](#device-information) associated with that Organization with an owner and/or administrator of the Organization, to the extent that such information is provided only to investigate or respond to a security incident that affects or compromises the security of that particular Organization.
@@ -182,7 +182,7 @@ If you would like to cancel your account or delete your User Personal Informatio
 
 Mooziker uses cookies to make interactions with our service easy and meaningful. Cookies are small text files that websites often store on computer hard drives or mobile devices of visitors. We use cookies (and similar technologies, like HTML5 localStorage) to keep you logged in, remember your preferences, and provide information for future development of Mooziker. For security purposes, we use cookies to identify a device. By using our Website, you agree that we can place these types of cookies on your computer or device. If you disable your browser or device’s ability to accept these cookies, you will not be able to log in or use Mooziker’s services.
 
-We provide a web page on [cookies and tracking](/benwigley/mooziker-site-policy/mooziker-subprocessors-and-cookies) that describes the cookies we set, the needs we have for those cookies, and the types of cookies they are (temporary or permanent). It also lists our third-party analytics providers and other service providers, and details exactly which parts of our Website we permit them to track.
+We provide a web page on [cookies and tracking](/Policies/mooziker-subprocessors-and-cookies) that describes the cookies we set, the needs we have for those cookies, and the types of cookies they are (temporary or permanent). It also lists our third-party analytics providers and other service providers, and details exactly which parts of our Website we permit them to track.
 
 #### Tracking and analytics
 
